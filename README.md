@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridhi-priya" alt="ridhi-priya" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ridhi modi" target="blank"><img src="https://img.shields.io/twitter/follow/ridhi modi?logo=twitter&style=for-the-badge" alt="ridhi modi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **50DaysOfJavascriptProjects**
 
@@ -15,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ridhi modi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ridhi modi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ridhi priya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridhi priya" height="30" width="40" /></a>
 <a href="https://instagram.com/modi_ridhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="modi_ridhi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ridhi_102" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ridhi_102" height="30" width="40" /></a>
