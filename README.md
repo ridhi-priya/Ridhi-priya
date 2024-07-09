@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ridhi Modi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋 I'm Ridhi Priya  </h1>
+<h3 align="center">Transforming Concepts into Engaging Interfaces: React | Tailwind</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhi-priya&label=Profile%20views&color=0e75b6&style=flat" alt="ridhi-priya" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **50DaysOfJavascriptProjects**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently engaged with **React** projects
 
 - 📫 How to reach me **ridhi7681309@gmail.com**
 
