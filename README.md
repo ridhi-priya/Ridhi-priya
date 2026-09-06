@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ridhi-priya/">LinkedIn</a> •
-  <a href="https://ridhipriya.vercel.app/">Portfolio</a> •
-  <a href="mailto:ridhipriya4503@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/ridhi-priya/" target="_blank">LinkedIn</a> •
+  <a href="https://ridhipriya.vercel.app/" target="_blank">Portfolio</a> •
+  <a href="mailto:ridhipriya4503@gmail.com" target="_blank">Email</a>
 </p>
 
 ---
